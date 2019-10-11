@@ -1,0 +1,7 @@
+nav ul li {display:inline;}
+#wrapper { width:600px; background: yellow; margin:0 auto; }
+#footer ul { text-align: center; list-style-type: none; }
+#footer li { display: inline; }
+#footer a { padding: 1px 30px; background: orange; border-style:solid; border-color: black}
+#footer a:hover { background: green; color: yellow;}
+h1 { text-decoration-line: underline;}
